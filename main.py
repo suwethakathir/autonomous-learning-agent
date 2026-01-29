@@ -9,3 +9,6 @@ if __name__ == "__main__":
         "confidence": 3
     })
     print(result)
+
+def run_agent(topic):
+    return f"Feynman explanation for {topic}"
