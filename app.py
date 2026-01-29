@@ -1,5 +1,4 @@
 import streamlit as st
-from main import run_agent
 from checkpoints import CHECKPOINTS
 from graph import build_question_graph, build_evaluation_graph
 
